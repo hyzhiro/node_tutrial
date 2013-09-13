@@ -51,7 +51,7 @@ function onRequest(request, response){
 	}
 }
 
-var PORT = '8080';
+var PORT = '8081';
 var ADDRESS = '127.0.0.1';
 
 // 待ち受け開始
