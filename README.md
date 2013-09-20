@@ -20,3 +20,8 @@ $ node --debug-brk debug.js
 
 $ node_modules/.bin/node-inspector
   -> http://localhost:8080/debug?port=5858
+
+
+$ mkdir mongo
+$ mongod --dbpath ./mongo
+$ mongo sampledb
