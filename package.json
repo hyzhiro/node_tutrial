@@ -4,6 +4,7 @@
   "dependencies": {
     "mysql": "*",
     "node-inspector": "*",
-    "mongodb": "*"
+    "mongodb": "*",
+    "express": "*"
   }
 }
